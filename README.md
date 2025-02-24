@@ -35,4 +35,12 @@ Elderly passengers had the lowest survival chances.
 Passengers with small families had a higher survival rate than solo travelers.
 Large families had lower chances due to limited lifeboat availability.
 
+# Conclusion 🏁
+📢 This analysis confirms that gender, class, and age were major survival determinants on the Titanic. Women, children, and first-class passengers had the highest survival rates, highlighting socio-economic disparities and safety protocols followed during the disaster.
+
+# Future Scope 🚀
+- Apply Machine Learning (Logistic Regression, Decision Trees) to predict survival probability.
+- Perform Feature Engineering to extract more meaningful insights.
+- Build an interactive Power BI Dashboard for better visualization.
+
 
